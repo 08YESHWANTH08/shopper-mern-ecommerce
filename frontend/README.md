@@ -76,10 +76,6 @@ E-commerce-frontend/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/08YESHWANTH08/shopper-mern-ecommerce/blob/main/frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
 </p>
 
