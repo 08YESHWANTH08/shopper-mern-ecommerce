@@ -68,3 +68,112 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 🛍️ Shopper – E-Commerce Frontend (React.js)
+
+This is the **frontend** of a full-stack E-Commerce web application built using **React.js**.  
+It provides users with a seamless shopping experience, including product browsing, categories, cart management, and user authentication integration.
+
+---
+
+## 🚀 Tech Stack
+- **React.js** – UI library  
+- **React Router DOM** – Client-side routing  
+- **Context API** – Global state management  
+- **CSS3** – Custom styling and responsive design  
+
+---
+
+## ✨ Features
+- 🏠 **Homepage** with hero section & banners  
+- 🧑 **Category Pages** (Men, Women, Kids)  
+- 🛒 **Product Listing** with price and discount info  
+- 🔍 **Single Product Page** with details & breadcrumb navigation  
+- ➕ **Add to Cart** and **Cart Summary**  
+- 🔑 **Login / Signup Page** (UI ready, backend integration pending)  
+- 📱 **Responsive Design** (desktop, tablet & mobile views)  
+
+---
+
+## 📂 Folder Structure
+```
+E-commerce-frontend/
+│── public/             # Static files
+│── src/
+│   ├── Components/     # Reusable UI components
+│   ├── Pages/          # Page-level components (Shop, Cart, Login, etc.)
+│   ├── Context/        # Global state management
+│   ├── App.js          # App entry with routing
+│   └── index.js        # React entry point
+│── package.json
+│── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/08YESHWANTH08/shopper-mern-ecommerce.git
+   cd shopper-frontend
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm start
+   ```
+
+4. **Open in browser**
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## 🔮 Roadmap
+- ✅ Build static frontend with React  
+- 🔄 Connect with backend (Node.js + Express + MongoDB)  
+- 🛍️ Implement checkout & payment integration  
+- 🔐 Add authentication (JWT / OAuth)  
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src=".frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/HOME-2.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/HOME-3.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/MENS.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/WOMEN.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/KIDS.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
+<p align="center">
+  <img src=".frontend/images/CART_PAGE.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+---
+
+## 📜 License
+This project is for **learning & portfolio purposes**. Feel free to fork and extend.  
+
