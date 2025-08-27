@@ -76,31 +76,31 @@ E-commerce-frontend/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src=".frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
+  <img src="./frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/HOME-2.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/HOME-2.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/HOME-3.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/HOME-3.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/MENS.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/MENS.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/WOMEN.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/WOMEN.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/KIDS.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/KIDS.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src=".frontend/images/CART_PAGE.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="./frontend/images/CART_PAGE.png" alt="Cart Page Screenshot" width="700"/>
 </p>
 ---
 # Getting Started with Create React App
