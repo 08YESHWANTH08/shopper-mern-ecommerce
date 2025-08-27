@@ -76,32 +76,37 @@ E-commerce-frontend/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
+  <img src="https://github.com/08YESHWANTH08/shopper-mern-ecommerce/blob/main/frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/HOME-2.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/HOME-1.png" alt="Homepage Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/HOME-3.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/HOME-2.png" alt="Homepage Screenshot 2" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/MENS.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/HOME-3.png" alt="Homepage Screenshot 3" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/WOMEN.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/MENS.png" alt="Mens Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/KIDS.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/WOMEN.png" alt="Womens Page Screenshot" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./frontend/images/CART_PAGE.png" alt="Cart Page Screenshot" width="700"/>
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/KIDS.png" alt="Kids Page Screenshot" width="700"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/08YESHWANTH08/shopper-mern-ecommerce/main/frontend/images/CART_PAGE.png" alt="Cart Page Screenshot" width="700"/>
+</p>
+
 ---
 # Getting Started with Create React App
 
